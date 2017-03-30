@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="tvdpi"
+    format="7"
+    timestamp="6382560145875"
+    token="-3908287107451824539" >
+
+    <task
+        name="javac"
+        duration="3401" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2476" />
+    <task
+        name="verifier"
+        duration="635" />
+
+    <artifact
+        location="F:\Android_TV\TVframedemo1\recoTvFrameDemo\build\outputs\apk\recoTvFrameDemo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="6382560145875" >
+        <artifact
+            location="F:\Android_TV\TVframedemo1\recoTvFrameDemo\build\outputs\apk\recoTvFrameDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

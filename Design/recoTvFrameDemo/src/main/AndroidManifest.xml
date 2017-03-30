@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="reco.frame.demo"
+    android:versionCode="1"
+    android:versionName="1.1">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/market_logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".sample.TvTabHostActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sample.TvRelativeLayoutAsGroupActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvButtonActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvProgressBarActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvLoadingBarActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvMarqueeTextActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvGridViewActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvHorizontalGridViewActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvListViewActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvBitmapActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvDbActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".sample.TvHttpActivity"
+            android:label="@string/app_name"></activity>
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="5524959ffd98c52a330009fc"></meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="default" />
+
+        <activity android:name=".sample.DetailsActivity"></activity>
+    </application>
+
+</manifest>

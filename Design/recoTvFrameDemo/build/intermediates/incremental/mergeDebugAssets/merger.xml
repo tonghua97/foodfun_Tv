@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\Tv Image\Design\recoTvFrameDemo\build\intermediates\exploded-aar\Design\recoTvFrame\unspecified\assets"/></dataSet><dataSet config="main"><source path="D:\Tv Image\Design\recoTvFrameDemo\src\main\assets"/><source path="D:\Tv Image\Design\recoTvFrameDemo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Tv Image\Design\recoTvFrameDemo\src\debug\assets"/></dataSet></merger>

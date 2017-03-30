@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/px170"
+    android:layout_height="@dimen/px170"
+    android:background="@android:color/white"
+    tools:context="reco.frame.demo.sample.DetailsActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+        <reco.frame.tv.view.TvImageView
+            android:id="@+id/details_icon"
+            android:layout_width="@dimen/px226"
+            android:layout_height="@dimen/px376"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/px15"/>
+
+
+        <TextView
+            android:id="@+id/details_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/px8"
+            android:maxLength="7"
+            android:singleLine="true"
+            android:textSize="@dimen/px30" />
+    </LinearLayout>
+</RelativeLayout>
