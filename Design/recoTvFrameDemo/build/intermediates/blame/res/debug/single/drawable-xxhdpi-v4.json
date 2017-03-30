@@ -12,6 +12,14 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\Design\\recoTvFrame\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
     },
     {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\market_logo.png",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xxhdpi\\market_logo.png"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\Design\\recoTvFrame\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\TVframedemo1\\recoTvFrame\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
     }

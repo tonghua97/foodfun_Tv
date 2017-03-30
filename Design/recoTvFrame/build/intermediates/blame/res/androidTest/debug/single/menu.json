@@ -4,6 +4,10 @@
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrame\\build\\intermediates\\bundles\\debug\\res\\menu\\free.xml"
     },
     {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrame\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\free.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrame\\build\\intermediates\\bundles\\debug\\res\\menu\\free.xml"
+    },
+    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrame\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\free.xml",
         "source": "D:\\Tv Image\\Design\\recoTvFrame\\build\\intermediates\\bundles\\debug\\res\\menu\\free.xml"
     }

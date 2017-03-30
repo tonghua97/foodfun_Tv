@@ -1,28 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:tv="http://schemas.android.com/apk/res/reco.frame.demo"
-    android:layout_width="@dimen/px170"
-    android:layout_height="@dimen/px170"
-    android:background="@android:color/white"
-    tools:context="reco.frame.demo.sample.DetailsActivity">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/px38"
+    android:paddingLeft="@dimen/px182"
+    android:paddingRight="@dimen/px182"
+    android:background="@android:color/black">
 
-    <reco.frame.tv.view.TvImageView
-        android:id="@+id/details_icon"
-        android:layout_width="@dimen/px226"
-        android:layout_height="@dimen/px376"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="@dimen/px15"/>
+    <RelativeLayout
+        android:layout_width="@dimen/px1600"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/px46"
+        android:paddingLeft="@dimen/px150"
+        android:paddingRight="@dimen/px150"
+        android:background="@android:color/holo_blue_light">
+        <reco.frame.tv.view.TvImageView
+            android:id="@+id/details_icon"
+            android:layout_width="@dimen/px450"
+            android:layout_height="@dimen/px331"
+            android:layout_alignParentLeft="true" />
 
+        <TextView
+            android:id="@+id/details_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/details_icon"
+            android:layout_marginBottom="@dimen/px8"
+            android:layout_marginTop="@dimen/px76"
+            android:maxLength="7"
+            android:singleLine="true"
+            android:textSize="@dimen/px45" />
 
-    <TextView
-        android:id="@+id/details_text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="@dimen/px8"
-        android:maxLength="7"
-        android:singleLine="true"
-        android:textSize="@dimen/px30" />
+        <TextView
+            android:id="@+id/tv_post"
+            android:layout_width="@dimen/px630"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/px36"
+            android:scrollbars="vertical" />
+    </RelativeLayout>
+
 </RelativeLayout>

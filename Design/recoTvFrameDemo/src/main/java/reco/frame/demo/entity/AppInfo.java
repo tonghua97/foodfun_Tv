@@ -7,8 +7,17 @@ public class AppInfo {
 	public int id;
 	public String title;
 	public String imageUrl;
+	public String text;
 	public int mUrl;
 	public int num;
+
+	public String getText() {
+		return text;
+	}
+
+	public void setText(String text) {
+		this.text = text;
+	}
 
 	public int getmUrl() {
 		return mUrl;

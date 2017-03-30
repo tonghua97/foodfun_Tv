@@ -1,11 +1,147 @@
 [
     {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_a.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_a.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_db.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_db.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvhttp.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvhttp.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_grid.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bitmap.xml",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_bitmap.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_free.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\Design\\recoTvFrame\\unspecified\\res\\layout\\activity_free.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvgridview.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvgridview.xml"
+    },
+    {
+        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_templet_a.xml",
+        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_templet_a.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loadingbar.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_loadingbar.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_bitmap.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_bitmap.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid.xml",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_grid.xml"
+    },
+    {
+        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvgridview.xml",
+        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvgridview.xml"
+    },
+    {
+        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relativelayoutasgroup.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_relativelayoutasgroup.xml"
+    },
+    {
+        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_free.xml",
+        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\TVframedemo1\\recoTvFrame\\unspecified\\res\\layout\\activity_free.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvdb.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvdb.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_b.xml",
+        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_b.xml"
+    },
+    {
+        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loadingbar.xml",
+        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_loadingbar.xml"
+    },
+    {
+        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_db.xml",
+        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\item_db.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_a.xml",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_a.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_bitmap.xml",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_bitmap.xml"
+    },
+    {
+        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid.xml",
+        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\item_grid.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_b.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_b.xml"
+    },
+    {
+        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvhttp.xml",
+        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvhttp.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_progressbar.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_progressbar.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_db.xml",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_db.xml"
+    },
+    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_c.xml",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_c.xml"
     },
     {
         "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relativelayoutasgroup.xml",
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_relativelayoutasgroup.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_templet_a.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_templet_a.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvlistview.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvlistview.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvmarqueetext.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvmarqueetext.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvhorizontalgridview.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvhorizontalgridview.xml"
     },
     {
         "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
@@ -40,10 +176,6 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvmarqueetext.xml"
     },
     {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bitmap.xml",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_bitmap.xml"
-    },
-    {
         "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvdb.xml",
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvdb.xml"
     },
@@ -56,10 +188,6 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvdb.xml"
     },
     {
-        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_templet_a.xml",
-        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_templet_a.xml"
-    },
-    {
         "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvtabhost.xml",
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvtabhost.xml"
     },
@@ -68,12 +196,8 @@
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvlistview.xml"
     },
     {
-        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvgridview.xml",
-        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvgridview.xml"
-    },
-    {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid.xml",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_grid.xml"
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvtabhost.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvtabhost.xml"
     },
     {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_templet_a.xml",
@@ -84,12 +208,8 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvtabhost.xml"
     },
     {
-        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_free.xml",
-        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\TVframedemo1\\recoTvFrame\\unspecified\\res\\layout\\activity_free.xml"
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_details.xml"
     },
     {
         "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bitmap.xml",
@@ -104,12 +224,8 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvhorizontalgridview.xml"
     },
     {
-        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_b.xml",
-        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_b.xml"
-    },
-    {
-        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loadingbar.xml",
-        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_loadingbar.xml"
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bitmap.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_bitmap.xml"
     },
     {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvlistview.xml",
@@ -120,24 +236,12 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_details.xml"
     },
     {
-        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_db.xml",
-        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\item_db.xml"
-    },
-    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relativelayoutasgroup.xml",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_relativelayoutasgroup.xml"
     },
     {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_a.xml",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_a.xml"
-    },
-    {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_bitmap.xml",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_bitmap.xml"
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_c.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_c.xml"
     },
     {
         "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_a.xml",
@@ -148,27 +252,11 @@
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvhorizontalgridview.xml"
     },
     {
-        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid.xml",
-        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\item_grid.xml"
-    },
-    {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_list.xml"
-    },
-    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_free.xml",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\Design\\recoTvFrame\\unspecified\\res\\layout\\activity_free.xml"
     },
     {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_b.xml",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_b.xml"
-    },
-    {
-        "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tvhttp.xml",
-        "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_tvhttp.xml"
-    },
-    {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_db.xml",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_db.xml"
     }
 ]

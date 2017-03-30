@@ -4,6 +4,10 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\mm.jpg"
     },
     {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kk.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\kk.jpg"
+    },
+    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aa.jpg",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\aa.jpg"
     },
@@ -12,20 +16,88 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\nn.jpg"
     },
     {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gg.jpg",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\gg.jpg"
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ll.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ll.jpg"
     },
     {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\Design\\recoTvFrame\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ee.jpg",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ee.jpg"
-    },
-    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kk.jpg",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\kk.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mm.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\mm.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nn.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\nn.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aa.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\aa.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ll.jpg",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ll.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jj.jpg",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\jj.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\oo.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\oo.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bb.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\bb.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\Design\\recoTvFrame\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\market_logo.png",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\market_logo.png"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hh.jpg",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\hh.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cc.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\cc.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ii.jpg",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ii.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\market_logo.png",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\market_logo.png"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dd.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\dd.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ee.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ee.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ff.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ff.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gg.jpg",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\gg.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ee.jpg",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ee.jpg"
     },
     {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ff.jpg",
@@ -36,20 +108,24 @@
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\market_logo.png"
     },
     {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ll.jpg",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ll.jpg"
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gg.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\gg.jpg"
     },
     {
         "merged": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\TVframedemo1\\recoTvFrame\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jj.jpg",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\jj.jpg"
-    },
-    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cc.jpg",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\cc.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hh.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\hh.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ii.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ii.jpg"
     },
     {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dd.jpg",
@@ -64,15 +140,7 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\oo.jpg"
     },
     {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\market_logo.png",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\market_logo.png"
-    },
-    {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hh.jpg",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\hh.jpg"
-    },
-    {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ii.jpg",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\ii.jpg"
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jj.jpg",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\jj.jpg"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\Design\\recoTvFrame\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\market_logo.png",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-hdpi\\market_logo.png"
+    },
+    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\Design\\recoTvFrame\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
     },
