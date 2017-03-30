@@ -29,40 +29,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".sample.TvRelativeLayoutAsGroupActivity"
-            android:label="@string/app_name"></activity>
-        <activity
             android:name=".sample.TvButtonActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".sample.TvProgressBarActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".sample.TvLoadingBarActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".sample.TvMarqueeTextActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".sample.TvGridViewActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".sample.TvHorizontalGridViewActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".sample.TvListViewActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".sample.TvBitmapActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".sample.TvDbActivity"
-            android:label="@string/app_name"></activity>
-        <activity
-            android:name=".sample.TvHttpActivity"
             android:label="@string/app_name"></activity>
 
         <meta-data

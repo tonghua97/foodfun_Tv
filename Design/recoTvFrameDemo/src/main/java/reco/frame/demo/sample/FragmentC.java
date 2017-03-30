@@ -6,6 +6,7 @@ import reco.frame.demo.adapter.TvGridAdapter;
 import reco.frame.demo.entity.AppInfo;
 import reco.frame.tv.view.TvHorizontalGridView;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -34,6 +35,17 @@ public class FragmentC extends Fragment {
 
 		adapter = new TvFragmentCAdapter(getActivity(), appList);
 		tgv_imagelist.setAdapter(adapter);
+
+		tgv_imagelist.setOnItemClickListener(new TvHorizontalGridView.OnItemClickListener() {
+			@Override
+			public void onItemClick(View item, int position) {
+				Intent intent = new Intent(getActivity(),DetailsActivity.class);
+				intent.putExtra("mUrl",appList.get(position).getmUrl()+"");
+				intent.putExtra("title",appList.get(position).getTitle());
+				intent.putExtra("text",appList.get(position).getText());
+				startActivity(intent);
+			}
+		});
 
 		return parent;
 	}

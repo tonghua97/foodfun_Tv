@@ -4,10 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import reco.frame.demo.R;
-import reco.frame.demo.adapter.DbListAdapter;
 import reco.frame.demo.adapter.TvGridAdapter;
 import reco.frame.demo.entity.AppInfo;
-import reco.frame.tv.view.TvGridView;
 import reco.frame.tv.view.TvHorizontalGridView;
 
 import android.content.Intent;

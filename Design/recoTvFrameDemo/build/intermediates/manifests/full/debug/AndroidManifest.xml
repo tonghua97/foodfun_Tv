@@ -29,40 +29,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="reco.frame.demo.sample.TvRelativeLayoutAsGroupActivity"
-            android:label="@string/app_name" />
-        <activity
             android:name="reco.frame.demo.sample.TvButtonActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.sample.TvProgressBarActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.sample.TvLoadingBarActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.sample.TvMarqueeTextActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.sample.TvGridViewActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.sample.TvHorizontalGridViewActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.sample.TvListViewActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.MainActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.sample.TvBitmapActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.sample.TvDbActivity"
-            android:label="@string/app_name" />
-        <activity
-            android:name="reco.frame.demo.sample.TvHttpActivity"
             android:label="@string/app_name" />
 
         <meta-data

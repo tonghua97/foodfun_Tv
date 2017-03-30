@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:2:1-78:12
+ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:2:1-45:12
 	package
 		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:3:5-30
 		INJECTED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml
@@ -43,7 +43,7 @@ ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.x
 	android:name
 		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:15:30-85
 application
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:17:5-76:19
+ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:17:5-43:19
 	android:label
 		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:20:9-41
 	android:allowBackup
@@ -68,91 +68,25 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:28:17-77
 	android:name
 		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:28:27-74
-activity#reco.frame.demo.sample.TvRelativeLayoutAsGroupActivity
+activity#reco.frame.demo.sample.TvButtonActivity
 ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:31:9-33:57
 	android:label
 		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:33:13-45
 	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:32:13-67
-activity#reco.frame.demo.sample.TvButtonActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:34:9-36:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:36:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:35:13-52
-activity#reco.frame.demo.sample.TvProgressBarActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:37:9-39:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:39:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:38:13-57
-activity#reco.frame.demo.sample.TvLoadingBarActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:40:9-42:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:42:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:41:13-56
-activity#reco.frame.demo.sample.TvMarqueeTextActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:43:9-45:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:45:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:44:13-57
-activity#reco.frame.demo.sample.TvGridViewActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:46:9-48:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:48:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:47:13-54
-activity#reco.frame.demo.sample.TvHorizontalGridViewActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:49:9-51:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:51:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:50:13-64
-activity#reco.frame.demo.sample.TvListViewActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:52:9-54:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:54:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:53:13-54
-activity#reco.frame.demo.MainActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:55:9-57:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:57:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:56:13-41
-activity#reco.frame.demo.sample.TvBitmapActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:58:9-60:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:60:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:59:13-52
-activity#reco.frame.demo.sample.TvDbActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:61:9-63:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:63:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:62:13-48
-activity#reco.frame.demo.sample.TvHttpActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:64:9-66:57
-	android:label
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:66:13-45
-	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:65:13-50
+		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:32:13-52
 meta-data#UMENG_APPKEY
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:68:9-70:66
+ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:35:9-37:66
 	android:value
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:70:13-53
+		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:37:13-53
 	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:69:13-40
+		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:36:13-40
 meta-data#UMENG_CHANNEL
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:71:9-73:39
+ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:38:9-40:39
 	android:value
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:73:13-36
+		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:40:13-36
 	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:72:13-41
+		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:39:13-41
 activity#reco.frame.demo.sample.DetailsActivity
-ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:75:9-69
+ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:42:9-69
 	android:name
-		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:75:19-57
+		ADDED from D:\Tv Image\Design3\Design\recoTvFrameDemo\src\main\AndroidManifest.xml:42:19-57
