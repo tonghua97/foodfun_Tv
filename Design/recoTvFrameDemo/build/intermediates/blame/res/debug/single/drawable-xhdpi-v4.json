@@ -24,6 +24,10 @@
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\exploded-aar\\Design\\recoTvFrame\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
     },
     {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_loading.png",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\img_loading.png"
+    },
+    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kk.jpg",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\kk.jpg"
     },
@@ -70,6 +74,10 @@
     {
         "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cc.jpg",
         "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\cc.jpg"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_ranklistcover.png",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\drawable-xhdpi\\img_ranklistcover.png"
     },
     {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ii.jpg",

@@ -7,10 +7,10 @@
 	<!-- 加载图片只需一句话  -->
     <reco.frame.tv.view.TvImageView
         android:id="@+id/tiv_icon"
-        android:layout_width="@dimen/px226"
-        android:layout_height="@dimen/px376"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="@dimen/px15"/>
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        />
 
 
     <TextView

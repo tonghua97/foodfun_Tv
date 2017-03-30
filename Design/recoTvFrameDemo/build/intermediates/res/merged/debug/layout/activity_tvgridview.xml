@@ -21,8 +21,6 @@
         tv:itemWidth="@dimen/px230"
         tv:itemHeight="@dimen/px230"
         tv:columns="3"
-        tv:paddingLeft="@dimen/px21"
-        tv:paddingTop="@dimen/px21"
         tv:animationType="DEFAULT"
         >
     </reco.frame.tv.view.TvGridView> 

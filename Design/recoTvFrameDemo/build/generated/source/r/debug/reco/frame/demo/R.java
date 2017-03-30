@@ -4439,28 +4439,33 @@ containing a value of this type.
         public static final int icon_reco=0x7f020010;
         public static final int icon_storm=0x7f020011;
         public static final int ii=0x7f020012;
-        public static final int jj=0x7f020013;
-        public static final int kk=0x7f020014;
-        public static final int ll=0x7f020015;
-        public static final int loading=0x7f020016;
-        public static final int market_logo=0x7f020017;
-        public static final int mm=0x7f020018;
-        public static final int nn=0x7f020019;
-        public static final int oo=0x7f02001a;
-        public static final int test_bg=0x7f02001b;
+        public static final int img_loading=0x7f020013;
+        public static final int img_ranklistcover=0x7f020014;
+        public static final int jj=0x7f020015;
+        public static final int kk=0x7f020016;
+        public static final int ll=0x7f020017;
+        public static final int loading=0x7f020018;
+        public static final int market_logo=0x7f020019;
+        public static final int mm=0x7f02001a;
+        public static final int nn=0x7f02001b;
+        public static final int oo=0x7f02001c;
+        public static final int test_bg=0x7f02001d;
     }
     public static final class id {
         public static final int CHILD_ONLY=0x7f080002;
         public static final int DEFAULT=0x7f080000;
         public static final int FAN=0x7f080004;
+        public static final int IvCover=0x7f080044;
         public static final int LTH=0x7f080007;
         public static final int PARENT_ONLY=0x7f080003;
+        public static final int PartRight=0x7f080043;
         public static final int RECT=0x7f080005;
         public static final int RING=0x7f080006;
         public static final int TRANSLATE=0x7f080001;
-        public static final int action_settings=0x7f080047;
-        public static final int bt_launcher=0x7f080045;
-        public static final int bt_uninstall=0x7f080046;
+        public static final int Tv_rank_id=0x7f080045;
+        public static final int action_settings=0x7f08004a;
+        public static final int bt_launcher=0x7f080048;
+        public static final int bt_uninstall=0x7f080049;
         public static final int details_icon=0x7f08000c;
         public static final int details_text=0x7f08000d;
         public static final int fsb_apk=0x7f080028;
@@ -4471,8 +4476,8 @@ containing a value of this type.
         public static final int fsb_setting=0x7f08002a;
         public static final int fsb_system=0x7f080029;
         public static final int fsb_uninstall=0x7f080025;
-        public static final int iv_icon=0x7f080044;
-        public static final int ll_detail=0x7f080043;
+        public static final int iv_icon=0x7f080047;
+        public static final int ll_detail=0x7f080046;
         public static final int lv_list=0x7f080030;
         public static final int mt_1=0x7f080039;
         public static final int mt_2=0x7f08003a;
@@ -4544,8 +4549,9 @@ containing a value of this type.
         public static final int frag_c=0x7f030011;
         public static final int item_bitmap=0x7f030012;
         public static final int item_db=0x7f030013;
-        public static final int item_grid=0x7f030014;
-        public static final int item_list=0x7f030015;
+        public static final int item_fragmentcgrid=0x7f030014;
+        public static final int item_grid=0x7f030015;
+        public static final int item_list=0x7f030016;
     }
     public static final class menu {
         public static final int free=0x7f070000;

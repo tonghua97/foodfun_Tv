@@ -128,7 +128,7 @@
         tv:itemHeight="@dimen/px451"
         app:rows="1"
         tv:paddingLeft="@dimen/px21"
-        tv:paddingTop="@dimen/px21"
+        tv:paddingTop="@dimen/px150"
         tv:initFocus="false"
         >
     </reco.frame.tv.view.TvHorizontalGridView>

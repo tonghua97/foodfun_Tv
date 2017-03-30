@@ -3,103 +3,148 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-   android:background="@android:color/holo_red_light" >
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/holo_red_light">
 
     <!-- 无阴影四边形光标 四边边框宽度均为2 cursorRes属性不设置 则无光标-->
 
-     <reco.frame.tv.view.TvRelativeLayoutAsGroup
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/px200"
-        android:layout_marginTop="@dimen/px100"
-        tv:boarder="@dimen/px2"
+     <!--<reco.frame.tv.view.TvRelativeLayoutAsGroup-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="@dimen/px200"-->
+        <!--android:layout_marginTop="@dimen/px100"-->
+        <!--tv:boarder="@dimen/px2"-->
+        <!--tv:cursorRes="@drawable/cursor_rectangle_boarder_orange"-->
+        <!--tv:scale="1.1" >-->
+
+        <!--<RelativeLayout-->
+            <!--android:id="@+id/tv_1"-->
+            <!--android:layout_width="@dimen/px170"-->
+            <!--android:layout_height="@dimen/px170"-->
+            <!--android:layout_alignParentLeft="true"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_marginLeft="@dimen/px50"-->
+            <!--android:background="@android:color/white"-->
+            <!--android:focusable="true" >-->
+
+            <!--<ImageView-->
+                <!--android:layout_width="@dimen/px70"-->
+                <!--android:layout_height="@dimen/px70"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:layout_marginTop="@dimen/px40"-->
+                <!--android:background="@drawable/icon_reco" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:layout_marginBottom="@dimen/px13"-->
+                <!--android:maxLength="7"-->
+                <!--android:singleLine="true"-->
+                <!--android:text="尾页" />-->
+        <!--</RelativeLayout>-->
+
+        <!--<RelativeLayout-->
+            <!--android:id="@+id/tv_2"-->
+            <!--android:layout_width="@dimen/px170"-->
+            <!--android:layout_height="@dimen/px170"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_marginLeft="@dimen/px20"-->
+            <!--android:layout_toRightOf="@+id/tv_1"-->
+            <!--android:background="@android:color/white"-->
+            <!--android:focusable="true" >-->
+
+            <!--<ImageView-->
+                <!--android:layout_width="@dimen/px70"-->
+                <!--android:layout_height="@dimen/px70"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:layout_marginTop="@dimen/px40"-->
+                <!--android:background="@drawable/icon_reco" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:layout_marginBottom="@dimen/px13"-->
+                <!--android:maxLength="7"-->
+                <!--android:singleLine="true"-->
+                <!--android:text="尾页" />-->
+        <!--</RelativeLayout>-->
+
+        <!--<RelativeLayout-->
+            <!--android:id="@+id/tv_3"-->
+            <!--android:layout_width="@dimen/px170"-->
+            <!--android:layout_height="@dimen/px170"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_marginLeft="@dimen/px20"-->
+            <!--android:layout_toRightOf="@+id/tv_2"-->
+            <!--android:background="@android:color/white"-->
+            <!--android:focusable="true" >-->
+
+            <!--<ImageView-->
+                <!--android:layout_width="@dimen/px70"-->
+                <!--android:layout_height="@dimen/px70"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:layout_marginTop="@dimen/px40"-->
+                <!--android:background="@drawable/icon_reco" />-->
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_alignParentBottom="true"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:layout_marginBottom="@dimen/px13"-->
+                <!--android:maxLength="7"-->
+                <!--android:singleLine="true"-->
+                <!--android:text="尾页" />-->
+        <!--</RelativeLayout>-->
+    <!--</reco.frame.tv.view.TvRelativeLayoutAsGroup>-->
+
+    <!--<RelativeLayout-->
+        <!--android:id="@+id/PartRight"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="200dp">-->
+        <!--<ImageView-->
+            <!--android:id="@+id/Iv_ranklist_recipeimg"-->
+            <!--android:src="@drawable/img_loading"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:layout_width="300dp"-->
+            <!--android:layout_height="200dp" />-->
+        <!--<ImageView-->
+            <!--android:id="@+id/IvCover"-->
+            <!--android:src="@drawable/img_ranklistcover"-->
+            <!--android:scaleType="fitXY"-->
+            <!--android:layout_width="300dp"-->
+            <!--android:layout_height="200dp" />-->
+        <!--<TextView-->
+            <!--android:id="@+id/Tv_rank_id"-->
+            <!--android:layout_weight="1"-->
+            <!--android:textStyle="bold"-->
+            <!--android:text="No.00"-->
+            <!--android:textSize="35sp"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:textColor="#FFFF33"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content" />-->
+    <!--</RelativeLayout>-->
+   <!---->
+
+    <reco.frame.tv.view.TvHorizontalGridView
+        android:id="@+id/tgv_imagelist"
+        android:layout_width="@dimen/px945"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/px300"
         tv:cursorRes="@drawable/cursor_rectangle_boarder_orange"
-        tv:scale="1.1" >
-
-        <RelativeLayout
-            android:id="@+id/tv_1"
-            android:layout_width="@dimen/px170"
-            android:layout_height="@dimen/px170"
-            android:layout_alignParentLeft="true"
-            android:layout_centerVertical="true"
-            android:layout_marginLeft="@dimen/px50"
-            android:background="@android:color/white"
-            android:focusable="true" >
-
-            <ImageView
-                android:layout_width="@dimen/px70"
-                android:layout_height="@dimen/px70"
-                android:layout_centerHorizontal="true"
-                android:layout_marginTop="@dimen/px40"
-                android:background="@drawable/icon_reco" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentBottom="true"
-                android:layout_centerHorizontal="true"
-                android:layout_marginBottom="@dimen/px13"
-                android:maxLength="7"
-                android:singleLine="true"
-                android:text="尾页" />
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:id="@+id/tv_2"
-            android:layout_width="@dimen/px170"
-            android:layout_height="@dimen/px170"
-            android:layout_centerVertical="true"
-            android:layout_marginLeft="@dimen/px20"
-            android:layout_toRightOf="@+id/tv_1"
-            android:background="@android:color/white"
-            android:focusable="true" >
-
-            <ImageView
-                android:layout_width="@dimen/px70"
-                android:layout_height="@dimen/px70"
-                android:layout_centerHorizontal="true"
-                android:layout_marginTop="@dimen/px40"
-                android:background="@drawable/icon_reco" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentBottom="true"
-                android:layout_centerHorizontal="true"
-                android:layout_marginBottom="@dimen/px13"
-                android:maxLength="7"
-                android:singleLine="true"
-                android:text="尾页" />
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:id="@+id/tv_3"
-            android:layout_width="@dimen/px170"
-            android:layout_height="@dimen/px170"
-            android:layout_centerVertical="true"
-            android:layout_marginLeft="@dimen/px20"
-            android:layout_toRightOf="@+id/tv_2"
-            android:background="@android:color/white"
-            android:focusable="true" >
-
-            <ImageView
-                android:layout_width="@dimen/px70"
-                android:layout_height="@dimen/px70"
-                android:layout_centerHorizontal="true"
-                android:layout_marginTop="@dimen/px40"
-                android:background="@drawable/icon_reco" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentBottom="true"
-                android:layout_centerHorizontal="true"
-                android:layout_marginBottom="@dimen/px13"
-                android:maxLength="7"
-                android:singleLine="true"
-                android:text="尾页" />
-        </RelativeLayout>
-    </reco.frame.tv.view.TvRelativeLayoutAsGroup>
-
-   
+        tv:itemWidth="@dimen/px300"
+        tv:itemHeight="@dimen/px451"
+        app:rows="1"
+        tv:paddingLeft="@dimen/px21"
+        tv:paddingTop="@dimen/px150"
+        tv:initFocus="false"
+        >
+    </reco.frame.tv.view.TvHorizontalGridView>
  
 </RelativeLayout>

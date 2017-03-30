@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/px170"
+    android:layout_height="@dimen/px170"
+    android:background="@android:color/white"
+    >
+	<!-- 加载图片只需一句话  -->
+    <!--<reco.frame.tv.view.TvImageView-->
+        <!--android:id="@+id/tiv_icon"-->
+        <!--android:layout_width="@dimen/px226"-->
+        <!--android:layout_height="@dimen/px376"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginTop="@dimen/px15"/>-->
+
+    <RelativeLayout
+        android:id="@+id/PartRight"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp">
+        <reco.frame.tv.view.TvImageView
+            android:id="@+id/tiv_icon"
+            android:src="@drawable/img_loading"
+            android:scaleType="centerCrop"
+            android:layout_width="300dp"
+            android:layout_height="200dp" />
+        <ImageView
+            android:id="@+id/IvCover"
+            android:src="@drawable/img_ranklistcover"
+            android:scaleType="fitXY"
+            android:layout_width="300dp"
+            android:layout_height="200dp" />
+        <TextView
+            android:id="@+id/Tv_rank_id"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="No.00"
+            android:textSize="35sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#FFFF33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/px8"
+        android:maxLength="7"
+        android:singleLine="true"
+        android:textSize="@dimen/px30" />
+
+</RelativeLayout>

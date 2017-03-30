@@ -258,5 +258,9 @@
     {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_b.xml",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_b.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_fragmentcgrid.xml",
+        "source": "D:\\Tv Image\\Design3\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\item_fragmentcgrid.xml"
     }
 ]
