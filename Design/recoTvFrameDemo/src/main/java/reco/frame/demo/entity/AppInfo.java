@@ -8,8 +8,17 @@ public class AppInfo {
 	public String title;
 	public String imageUrl;
 	public String text;
+	public String rankId;
 	public int mUrl;
 	public int num;
+
+	public String getRankId() {
+		return rankId;
+	}
+
+	public void setRankId(String rankId) {
+		this.rankId = rankId;
+	}
 
 	public String getText() {
 		return text;

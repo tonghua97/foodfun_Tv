@@ -48,12 +48,12 @@
         "source": "F:\\Android_TV\\TVframedemo1\\recoTvFrameDemo\\src\\main\\res\\layout\\item_db.xml"
     },
     {
-        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\frag_a.xml",
         "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\frag_a.xml"
+    },
+    {
+        "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Tv Image\\Design\\recoTvFrameDemo\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "D:\\Tv Image\\Design\\recoTvFrameDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_bitmap.xml",

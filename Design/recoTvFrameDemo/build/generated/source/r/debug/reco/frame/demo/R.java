@@ -4449,31 +4449,35 @@ containing a value of this type.
         public static final int mm=0x7f02001a;
         public static final int nn=0x7f02001b;
         public static final int oo=0x7f02001c;
-        public static final int test_bg=0x7f02001d;
+        public static final int sq1=0x7f02001d;
+        public static final int sq2=0x7f02001e;
+        public static final int sq3=0x7f02001f;
+        public static final int sq4=0x7f020020;
+        public static final int sq5=0x7f020021;
+        public static final int sq6=0x7f020022;
+        public static final int sq7=0x7f020023;
+        public static final int test_bg=0x7f020024;
     }
     public static final class id {
         public static final int CHILD_ONLY=0x7f080002;
         public static final int DEFAULT=0x7f080000;
         public static final int FAN=0x7f080004;
-        public static final int IvCover=0x7f080012;
+        public static final int IvCover=0x7f08000f;
         public static final int LTH=0x7f080007;
         public static final int PARENT_ONLY=0x7f080003;
-        public static final int PartRight=0x7f080010;
+        public static final int PartRight=0x7f08000d;
         public static final int RECT=0x7f080005;
         public static final int RING=0x7f080006;
         public static final int TRANSLATE=0x7f080001;
-        public static final int Tv_rank_id=0x7f080013;
-        public static final int action_settings=0x7f080015;
+        public static final int Tv_rank_id=0x7f080010;
+        public static final int action_settings=0x7f080012;
         public static final int details_icon=0x7f080008;
         public static final int details_text=0x7f080009;
         public static final int tgv_imagelist=0x7f08000c;
-        public static final int tiv_icon=0x7f080011;
+        public static final int tiv_icon=0x7f08000e;
         public static final int tth_container=0x7f08000b;
-        public static final int tv_1=0x7f08000d;
-        public static final int tv_2=0x7f08000e;
-        public static final int tv_3=0x7f08000f;
         public static final int tv_post=0x7f08000a;
-        public static final int tv_title=0x7f080014;
+        public static final int tv_title=0x7f080011;
     }
     public static final class layout {
         public static final int activity_details=0x7f030000;

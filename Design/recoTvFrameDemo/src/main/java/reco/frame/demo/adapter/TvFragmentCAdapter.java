@@ -46,6 +46,7 @@ public class TvFragmentCAdapter extends TvBaseAdapter {
 			holder=new ViewHolder();
 			holder.tv_title=(TextView) contentView.findViewById(R.id.tv_title);
 			holder.tiv_icon=(TvImageView) contentView.findViewById(R.id.tiv_icon);
+			holder.tv_rank_id = (TextView)contentView.findViewById(R.id.Tv_rank_id);
 			contentView.setTag(holder);
 		}else{
 			holder=(ViewHolder) contentView.getTag();
@@ -55,6 +56,7 @@ public class TvFragmentCAdapter extends TvBaseAdapter {
 		holder.tv_title.setText(app.getTitle());
 //		holder.tiv_icon.setBackgroundResource(R.drawable.icon_reco);
 		holder.tiv_icon.setBackgroundResource(app.getmUrl());
+		holder.tv_rank_id.setText(app.getRankId());
 		//holder.tiv_icon.configImageUrl(app.imageUrl);
 		
 		return contentView;
@@ -76,5 +78,6 @@ public class TvFragmentCAdapter extends TvBaseAdapter {
 	static class ViewHolder{
 		TextView tv_title;
 		TvImageView tiv_icon;
+		TextView tv_rank_id;
 	}
 }

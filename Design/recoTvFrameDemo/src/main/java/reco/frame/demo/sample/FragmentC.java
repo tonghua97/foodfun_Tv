@@ -54,6 +54,7 @@ public class FragmentC extends Fragment {
 		AppInfo app1 = new AppInfo();
 		app1.title = "蒜泥拌豆角";
 		app1.mUrl = R.drawable.cc;
+		app1.rankId = "No.01";
 		app1.text = "蒜泥拌豆角是一道非常可口的凉拌菜，主要材料为大蒜和豆角。\n" +
 				"大蒜[1]  所有的天然成分，纯天然、高浓缩、无异味、食用方便、易吸收。" +
 				"活化细胞，促进能量产生，增加疾病抗菌能力。能去脂降压、降血糖、防癌、" +
@@ -68,6 +69,7 @@ public class FragmentC extends Fragment {
 		AppInfo app2 = new AppInfo();
 		app2.title = "虾仁烩丝瓜";
 		app2.mUrl = R.drawable.ee;
+		app2.rankId = "No.02";
 		app2.text = "准备好虾仁和丝瓜，将速冻虾仁解冻沥干水分，丝瓜去掉表皮，切成滚刀块，" +
 				"把丝瓜焯水后沥干水分；锅中注入植物油，爆香姜丝。丝瓜不仅营养丰富，而且有" +
 				"一定的药用价值，浑身都是宝。丝瓜中含有丰富营养成分，所含的干扰素诱生剂，" +
@@ -80,6 +82,7 @@ public class FragmentC extends Fragment {
 		AppInfo app3 = new AppInfo();
 		app3.title = "银耳炖木瓜";
 		app3.mUrl = R.drawable.gg;
+		app3.rankId = "No.03";
 		app3.text = "银耳炖木瓜是一道美食，材 料：银耳15克，木瓜（中等大，最好是自然熏熟）1只，" +
 				"北杏10克，南杏12克，冰糖适量。\n" +
 				"做 法：将银耳用清水浸透发开，洗净；木瓜削皮去籽，" +
@@ -93,6 +96,7 @@ public class FragmentC extends Fragment {
 		AppInfo app4 = new AppInfo();
 		app4.title = "绣球鲈鱼";
 		app4.mUrl = R.drawable.dd;
+		app4.rankId = "No.04";
 		app4.text = "1.这道菜的口味清淡，很适合孩子和老人吃。除了用鲈鱼，也" +
 				"可以用黄花鱼，桂花鱼等少剌的湖鱼做。选料最好用新鲜的鱼，不然会有腥味。\n" +
 				"2.在取鱼骨的时侯主剌骨会有一些留在鱼肉上的，推荐使用眉夹把剌夹出来。取出" +
@@ -106,6 +110,7 @@ public class FragmentC extends Fragment {
 		AppInfo app5 = new AppInfo();
 		app5.title = "猪腱肉煲菜干汤";
 		app5.mUrl = R.drawable.aa;
+		app5.rankId = "No.05";
 		app5.text = "1.猪腱肉切大块，放进水里煮开，捞出冲洗干净浮沫\n" +
 				"2.菜干提前几个小时浸泡，挤干水分，捞出切成段，再清洗一遍\n" +
 				"3.胡萝卜削皮切块，菜干挤干水分，猪腱肉飞水，蜜枣冲洗一下\n" +
@@ -118,6 +123,7 @@ public class FragmentC extends Fragment {
 		AppInfo app6 = new AppInfo();
 		app6.title = "酸辣肚丝汤";
 		app6.mUrl = R.drawable.ff;
+		app6.rankId = "No.06";
 		app6.text = "酸辣肚丝汤是汉族传统名菜，属于豫菜汤粥菜谱之一。此菜健胃，" +
 				"暖身驱寒。以香菜为制作主料，酸辣肚丝汤的烹饪技巧以煮菜为主，口" +
 				"味属于酸辣味。酸辣汤是河南冬令筵席必备的佳羹。豫菜烹制酸辣汤讲" +
@@ -139,6 +145,7 @@ public class FragmentC extends Fragment {
 		AppInfo app7 = new AppInfo();
 		app7.title = "香酥鸭";
 		app7.mUrl = R.drawable.hh;
+		app7.rankId = "No.07";
 		app7.text = "香酥鸭是一道江苏，四川，湖南等地的传统名菜，在川菜，苏菜，湘菜中均有此菜，" +
 				"鸭子经调味品腌渍，再上笼蒸至熟烂，最后经油炸而成。此菜色泽红亮，口感皮脆肉酥。" +
 				"以葱白、甜面酱、番茄酱佐食，味更丰富。\n" +
@@ -157,6 +164,7 @@ public class FragmentC extends Fragment {
 		AppInfo app8 = new AppInfo();
 		app8.title = "盐煎丸子";
 		app8.mUrl = R.drawable.bb;
+		app8.rankId = "No.08";
 		app8.text = "盐煎丸子是一道菜品，主料为肉末、山药、鸡蛋、淀粉。\n做法\n" +
 				"1、山药去皮洗净，切碎；姜去皮洗净切姜末。\n" +
 				"2、肉末加山药、鸡蛋、淀粉、盐、葱椒、姜末、盐、料酒、酱油、鸡精搅打上劲，加香油拌匀。\n" +
@@ -167,6 +175,7 @@ public class FragmentC extends Fragment {
 		AppInfo app9 = new AppInfo();
 		app9.title = "醋焖黄花鱼";
 		app9.mUrl = R.drawable.ii;
+		app9.rankId = "No.09";
 		app9.text = "醋焖黄花鱼是一道家常菜，主料是黄花鱼，配以盐、醋、木耳等烹制而成。\n" +
 				"做法\n" +
 				"1 将黄花鱼去鳞去鳃去内脏，洗净沥水。在鱼体两面切上横刀。\n" +
@@ -187,6 +196,7 @@ public class FragmentC extends Fragment {
 		AppInfo app10 = new AppInfo();
 		app10.title = "大葱烧海参";
 		app10.mUrl = R.drawable.jj;
+		app10.rankId = "No.10";
 		app10.text = "大葱烧海参是河南一带的传统风味名菜，属于豫菜系。芡汁下锅，" +
 				"不要马上搅动，稍等三四秒钟，再将其搅匀，淀粉糊化，使之明汁亮芡。\n制作方法\n" +
 				"1. 将水发嫩小海参洗净，整个放入凉水锅中，用旺火烧开\n" +
@@ -201,6 +211,7 @@ public class FragmentC extends Fragment {
 		AppInfo app11 = new AppInfo();
 		app11.title = "家常蒸卤面";
 		app11.mUrl = R.drawable.kk;
+		app11.rankId = "No.11";
 		app11.text = "蒸卤面是一款家常菜品，制作原料主要有细切面、豇豆、五花肉等。\n" +
 				"做法\n" +
 				"\n" +
@@ -217,6 +228,7 @@ public class FragmentC extends Fragment {
 		AppInfo app12 = new AppInfo();
 		app12.title = "炸八块";
 		app12.mUrl = R.drawable.ll;
+		app12.rankId = "No.12";
 		app12.text = "炸八块，又名八块鸡，是河南省汉族传统名菜，属豫菜系。它由童子鸡、鸡肫、鸡肝、淀粉（蚕豆）等食材烹制而成。本地菜馆颇有韵味的“干搂炸酱不要芡，一只鸡子剁八瓣”的响堂报菜语，后半句就是指此菜而言。相传清乾隆皇帝巡视河道驻骅开封时曾领略过它的风味，由此闻名于世，至今已有近200年的历史。19世纪20年代，经开封又一新饭庄厨师刘庚莲等人的改进和提高，风味更佳。\n" +
 				"制作步骤\n" +
 				"1、花生米用盐炒熟去皮剁碎，葱一半切成花，余下葱和姜一起拍破。\n" +
